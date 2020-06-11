@@ -21,7 +21,7 @@ Add functionality to our existing Budget Tracker application to allow for offlin
 
 The link below will give you access to the web application via the Heroku web service:
 
-https://ghazi-workout-tracker.herokuapp.com/
+https://ghazi-budget-tracker.herokuapp.com/
 
 ## Requirements
 
@@ -50,4 +50,4 @@ Lastly, start the application server using the command line below:
 
 ## Preview
 
-![](images/WorkoutTracker.gif)
+<!-- ![](images/WorkoutTracker.gif) -->
