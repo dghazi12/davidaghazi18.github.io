@@ -50,4 +50,4 @@ Lastly, start the application server using the command line below:
 
 ## Preview
 
-<!-- ![](images/WorkoutTracker.gif) -->
+![](images/BudgetTracker.gif)
