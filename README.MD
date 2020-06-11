@@ -38,7 +38,7 @@ When brought back online:
 
 To run the application locally, first clone this repository with the following command: 
 
-    https://github.com/dghazi12/davidaghazi17.github.io.git
+    https://github.com/dghazi12/davidaghazi18.github.io.git
 
 Next, install the application dependencies:
 
